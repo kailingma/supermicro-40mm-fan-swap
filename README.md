@@ -31,6 +31,55 @@ The electrical side is where the real work is. The original fan cable was cut ou
 | ![Soldering Job](https://cdn.hackclub.com/019e9889-5cb2-7120-85d8-92242b3def34/IMG_8036.jpeg) | ![Fan Comparison](https://cdn.hackclub.com/019e95ca-c308-7616-87bb-e83dbb8ae7cb/22B9442E-413E-4AB7-931C-E74A04B14E89_1_102_o.jpeg)
 | Soldering Job | Fan Comparison |
 
+## Wiring Diagram
+```mermaid
+flowchart LR
+    subgraph PSU["PSU fan connector (donor supply)"]
+        direction TB
+        P_V["+12V"]
+        P_G["GND"]
+        P_T["TACH"]
+        P_P["PWM"]
+    end
+
+    subgraph SPL["4x splice, soldered + heat shrunk"]
+        direction TB
+        S_V["+12V"]
+        S_G["GND"]
+        S_T["TACH"]
+        S_P["PWM"]
+    end
+
+    subgraph F1["Fan 1"]
+        direction TB
+        F1V["+12V"]
+        F1G["GND"]
+        F1T["TACH"]
+        F1P["PWM"]
+    end
+
+    subgraph F2["Fan 2"]
+        direction TB
+        F2V["+12V"]
+        F2G["GND"]
+        F2T["TACH"]
+        F2P["PWM"]
+    end
+
+    P_V --- S_V
+    P_G --- S_G
+    P_T --- S_T
+    P_P --- S_P
+
+    S_V --- F1V
+    S_V --- F2V
+    S_G --- F1G
+    S_G --- F2G
+    S_T --- F1T
+    S_T --- F2T
+    S_P --- F1P
+    S_P --- F2P
+```
 
 ## Build log
 
