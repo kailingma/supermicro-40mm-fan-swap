@@ -4,7 +4,7 @@ A [Hack Club](https://hackclub.com) [Macondo](https://macondo.hackclub.com) proj
 
 # Supermicro 40mm Fan Swap
 
-[Onshape](https://cad.onshape.com/documents/373ffd8f172fee48bdac2120/w/7900feb72fc626060cd19447/e/43b79a1c3cb5936e74e0c8c3?renderMode=0&uiState=6a223409dba78bde51dcc5cb) | [Macondo](https://macondo.hackclub.com)
+[Onshape](https://cad.onshape.com/documents/373ffd8f172fee48bdac2120/w/7900feb72fc626060cd19447/e/43b79a1c3cb5936e74e0c8c3?renderMode=0&uiState=6a223409dba78bde51dcc5cb) | [Macondo](https://macondo.hackclub.com) | [BOM](https://github.com/kailingma/supermicro-40mm-fan-swap/blob/main/BOM.csv) | [STEP](https://github.com/kailingma/supermicro-40mm-fan-swap/blob/main/Noctua%2040mm%20Fan%20Spacer.step)
 
 ## What and why
 
