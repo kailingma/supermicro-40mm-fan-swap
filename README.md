@@ -1,3 +1,9 @@
+<img src="https://github.com/kailingma/supermicro-40mm-fan-swap/blob/fa2301d3958467b394805c631295f65bca7e54d1/hack%20club%20macondo%20logo.png" height=100>
+
+A [Hack Club](https://hackclub.com) [Macondo](https://macondo.hackclub.com) project
+
+# Supermicro 40mm Fan Swap
+
 [Onshape](https://cad.onshape.com/documents/373ffd8f172fee48bdac2120/w/7900feb72fc626060cd19447/e/43b79a1c3cb5936e74e0c8c3?renderMode=0&uiState=6a223409dba78bde51dcc5cb) | [Macondo](https://macondo.hackclub.com)
 
 ## What and why
