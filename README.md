@@ -17,12 +17,6 @@ The electrical side is where the real work is. The original fan cable was cut ou
 - 3D-printed adapter (second prototype)
 - Wire, solder, hot glue, heat shrink
 
-## Build log
-
-1. **Modelling (Jun 4):** measured the fans, settled on wall thickness, printed two prototypes. Also learned that my 15mm gap is the textbook spacing for a 120mm fan, so at 40mm scale the airflow evens out nicely between the two fans.
-2. **Soldering (Jun 5):** first time trying the Western Union splice, on tiny AWG 24 and 22 wires. They came out clean, though I picked the wrong heat shrink size for the first one and forgot it entirely, so it's a bit ugly.
-3. **Final wiring and test (Jul 27):** everything soldered, shrink wrapped, and assembled. On power-up the fans spin for a moment and the PSU shuts itself off.
-
 ## Images
 
 | ![Final Wiring](https://cdn.hackclub.com/019fa5c5-87a2-711f-b64f-dece37f7a3b3/IMG_8336.jpeg) | ![Western Union Splice](https://cdn.hackclub.com/019e9885-b213-788e-bbb1-da07c3d5a32a/7E6FA617-C8F8-44AD-B1E0-4BC1412E9928_1_105_c.jpeg) |
@@ -30,6 +24,14 @@ The electrical side is where the real work is. The original fan cable was cut ou
 | Final Wiring | Western Union Splice |
 | ![Soldering Job](https://cdn.hackclub.com/019e9889-5cb2-7120-85d8-92242b3def34/IMG_8036.jpeg) | ![Fan Comparison](https://cdn.hackclub.com/019e95ca-c308-7616-87bb-e83dbb8ae7cb/22B9442E-413E-4AB7-931C-E74A04B14E89_1_102_o.jpeg)
 | Soldering Job | Fan Comparison |
+
+
+## Build log
+
+1. **Modelling (Jun 4):** measured the fans, settled on wall thickness, printed two prototypes. Also learned that my 15mm gap is the textbook spacing for a 120mm fan, so at 40mm scale the airflow evens out nicely between the two fans.
+2. **Soldering (Jun 5):** first time trying the Western Union splice, on tiny AWG 24 and 22 wires. They came out clean, though I picked the wrong heat shrink size for the first one and forgot it entirely, so it's a bit ugly.
+3. **Final wiring and test (Jul 27):** everything soldered, shrink wrapped, and assembled. On power-up the fans spin for a moment and the PSU shuts itself off.
+
 
 ## Result
 
